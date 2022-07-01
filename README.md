@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/bojpi2deucmugm4n?svg=true)](https://ci.appveyor.com/project/elenakoch122/ahj-25-3-1-game-with-goblins)
 
-GitHub Pages: 
+GitHub Pages: https://elenakoch122.github.io/ahj-25_3.1-game-with-goblins/
 
 #### Легенда
 
